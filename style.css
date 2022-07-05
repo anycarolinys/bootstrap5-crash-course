@@ -20,3 +20,8 @@ body::before {
         width: 50%;
     }
 }
+
+.instructor-photo {
+    max-width: 60%;
+    max-height: 60%;
+}
